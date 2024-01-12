@@ -1,10 +1,12 @@
 ### Hello Everybody
+<a href="https://emoji.gg/emoji/1887_python"><img src="https://cdn3.emoji.gg/emojis/1887_python.png" width="64px" height="64px" alt="python"></a>
+<a href="https://emoji.gg/emoji/5752-sql"><img src="https://cdn3.emoji.gg/emojis/5752-sql.png" width="64px" height="64px" alt="sql"></a>
+
 
 - 🔭 I’m currently working on ... Finishing up my Bachelors in Computer Science
 - 🌱 I’m currently learning ... Data Engineering
 - 📫 How to reach me: ... walker.educs@gmail.com
-- 
-<a href="https://emoji.gg/emoji/1887_python"><img src="https://cdn3.emoji.gg/emojis/1887_python.png" width="64px" height="64px" alt="python"></a>
+
 
 
 
