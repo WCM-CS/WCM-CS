@@ -28,11 +28,10 @@ Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=WCM-CS&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
 
-[![CodeWars](https://www.codewars.com/users/WCM/badges/large)](https://www.codewars.com/users/WCM)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WCM-CS&hide=TeX&layout=compact&theme=prussian)
 
-![Codewars](https://github.r2v.ch/codewars?user=WCM&stroke=%23BB432C)
+![Codewars](https://github.r2v.ch/codewars?user=WCM&stroke=%238A2BE2)
 
 
 
