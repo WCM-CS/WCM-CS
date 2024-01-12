@@ -6,7 +6,7 @@
 
 Skills 
 
-![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python)
+![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=yellow)
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-yellow?style=flat-square&logo=Apache%20Spark)
 
 
