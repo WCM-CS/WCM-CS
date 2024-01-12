@@ -30,6 +30,9 @@ Stats
 
 Code Wars: [![CodeWars](https://www.codewars.com/users/WCM/badges/large)](https://www.codewars.com/users/WCM)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WCM-CS&hide=TeX&layout=compact&theme=prussian)
+
+
 
 
 
