@@ -4,8 +4,10 @@
 - 🌱 I’m currently learning ... Data Engineering
 - 📫 How to reach me: ... walker.educs@gmail.com
 
-Skills
+Skills \n
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-yellow?style=flat-square&logo=Apache%20Spark)
+
 
 
 
