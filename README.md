@@ -24,6 +24,10 @@ Skills
 ![OpenGL](https://img.shields.io/badge/-OpenGL-white?style=flat-square&logo=opengl&logoColor=purple)
 
 
+Stats
+![Github Stats](https://github-readme-stats.vercel.app/api?username=WCM-CS&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WCM-CS&hide=TeX&layout=compact&theme=prussian)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=WCM-CS.WCM-CS)
 
 
 
