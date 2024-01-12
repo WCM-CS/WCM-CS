@@ -8,6 +8,9 @@ Skills
 
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=yellow)
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-yellow?style=flat-square&logo=Apache%20Spark)
+![SQL](https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=sql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&logoColor=white)
+![ETL Pipelines](https://img.shields.io/badge/-ETL%20Pipelines-orange?style=flat-square)
 
 
 
