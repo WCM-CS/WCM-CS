@@ -32,7 +32,7 @@ Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WCM-CS&hide=TeX&layout=compact&theme=prussian)
 
-
+![Codewars](https://github.r2v.ch/codewars?user=WCM&stroke=%23BB432C)
 
 
 
