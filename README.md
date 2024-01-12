@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ... Data Engineering
 - 📫 How to reach me: ... walker.educs@gmail.com
 - 
-![image](https://github.com/WCM-CS/WCM-CS/assets/109036545/71f5288b-4623-42fe-9c6e-583fc3c2a173)
+<a href="https://emoji.gg/emoji/1887_python"><img src="https://cdn3.emoji.gg/emojis/1887_python.png" width="64px" height="64px" alt="python"></a>
 
 
 
