@@ -31,6 +31,7 @@ Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WCM-CS&hide=TeX&layout=compact&theme=prussian)
 
+[![Codewars](https://www.codewars.com/users/WCM-CS/badges/large)](https://www.codewars.com/users/WCM-CS)
 ![Codewars](https://github.r2v.ch/codewars?user=WCM&stroke=%238A2BE2)
 
 
