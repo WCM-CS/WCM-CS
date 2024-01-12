@@ -2,7 +2,8 @@
 <a href="https://emoji.gg/emoji/1887_python"><img src="https://cdn3.emoji.gg/emojis/1887_python.png" width="64px" height="64px" alt="python"></a>
 <a href="https://emoji.gg/emoji/5752-sql"><img src="https://cdn3.emoji.gg/emojis/5752-sql.png" width="64px" height="64px" alt="sql"></a>
 
-![apache_spark (1)](https://github.com/WCM-CS/WCM-CS/assets/109036545/a710a48c-3422-4be5-b844-6fe0b3cc9338)
+<a href="https://emoji.gg/emoji/APACHE_SPARK_EMOJI_ID"><img src="https://github.com/WCM-CS/WCM-CS/assets/109036545/a710a48c-3422-4be5-b844-6fe0b3cc9338" width="64px" height="64px" alt="Apache Spark"></a>
+
 
 - 🔭 I’m currently working on ... Finishing up my Bachelors in Computer Science
 - 🌱 I’m currently learning ... Data Engineering
