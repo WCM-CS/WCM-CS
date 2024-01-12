@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello Everybody
+
+- 🔭 I’m currently working on ... Finishing up my Bachelors in Computer Science
+- 🌱 I’m currently learning ... Data Engineering
+- 📫 How to reach me: ... walker.educs@gmail.com
+
 
 <!--
 **WCM-CS/WCM-CS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
