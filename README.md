@@ -3,7 +3,9 @@
 - 🔭 I’m currently working on ... Finishing up my Bachelors in Computer Science
 - 🌱 I’m currently learning ... Data Engineering
 - 📫 How to reach me: ... walker.educs@gmail.com
-![image](https://github.com/WCM-CS/WCM-CS/assets/109036545/af7adae9-d640-467a-a1f4-3327deed303f)
+- 
+![image](https://github.com/WCM-CS/WCM-CS/assets/109036545/71f5288b-4623-42fe-9c6e-583fc3c2a173)
+
 
 
 
