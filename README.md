@@ -30,7 +30,7 @@ Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WCM-CS&hide=TeX&layout=compact&theme=prussian)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=WCM-CS.WCM-CS)
+
 
 
 
