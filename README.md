@@ -10,7 +10,10 @@ Skills
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-yellow?style=flat-square&logo=Apache%20Spark)
 ![SQL](https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=sql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&logoColor=white)
-![ETL Pipelines](https://img.shields.io/badge/-ETL%20Pipelines-orange?style=flat-square)
+![Kafka](https://img.shields.io/badge/-Kafka-red?style=flat-square&logo=apache-kafka&logoColor=white)
+![Airflow](https://img.shields.io/badge/-Airflow-lightblue?style=flat-square&logo=apache-airflow&logoColor=black)
+![AWS](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazon-aws&logoColor=white)
+
 
 
 
