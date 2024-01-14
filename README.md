@@ -21,7 +21,6 @@ Skills
 ![Node.js](https://img.shields.io/badge/-Node.js-white?style=flat-square&logo=node.js&logoColor=purple)
 ![Express](https://img.shields.io/badge/-Express-purple?style=flat-square&logo=express&logoColor=yellow)
 ![Tableau](https://img.shields.io/badge/-Tableau-yellow?style=flat-square&logo=tableau&logoColor=white)
-![OpenGL](https://img.shields.io/badge/-OpenGL-white?style=flat-square&logo=opengl&logoColor=purple)
 
 
 Stats
