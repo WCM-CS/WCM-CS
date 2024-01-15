@@ -32,7 +32,7 @@ Stats
 
 [![Codewars](https://www.codewars.com/users/WCM/badges/large)](https://www.codewars.com/users/WCM-CS)
 
-![Codewars](https://github.r2v.ch/codewars?user=WCM&stroke=%238A2BE2)
+![Codewars](https://github.r2v.ch/codewars?user=WCM-CS&stroke=%238A2BE2)
 
 
 
