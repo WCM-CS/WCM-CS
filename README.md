@@ -23,15 +23,6 @@ Skills
 ![Tableau](https://img.shields.io/badge/-Tableau-yellow?style=flat-square&logo=tableau&logoColor=white)
 
 
-Stats
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=WCM-CS&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WCM-CS&hide=TeX&layout=compact&theme=prussian)
-
-[![Codewars](https://www.codewars.com/users/WCM/badges/large)](https://www.codewars.com/users/WCM-CS)
-
 
 
 
