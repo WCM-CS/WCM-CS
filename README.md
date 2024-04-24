@@ -1,8 +1,8 @@
 ### Hello everybody,
 
 - :book: Bachelors in Computer Science, SNHU
-- 🌱 I’m currently learning ... Data Engineering
-- 📫 How to reach me: ... walker.educs@gmail.com
+- :data: Data Engineer
+- 📫 Email: walker.educs@gmail.com
 - :horse:
 
 Skills 
