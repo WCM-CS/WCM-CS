@@ -1,6 +1,6 @@
-### Hello Everybody
+### Hello everybody,
 
-- 🔭 I’m currently working on ... Finishing up my Bachelors in Computer Science
+- :book: Bachelors in Computer Science, SNHU
 - 🌱 I’m currently learning ... Data Engineering
 - 📫 How to reach me: ... walker.educs@gmail.com
 - :horse:
