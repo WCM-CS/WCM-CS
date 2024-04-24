@@ -1,7 +1,7 @@
 ### Hello everybody,
 
 - :book: Bachelors in Computer Science, SNHU
-- :data: Data Engineer
+- 📊 Data Engineer
 - 📫 Email: walker.educs@gmail.com
 - :horse:
 
