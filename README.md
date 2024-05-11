@@ -3,7 +3,7 @@
 - :book: Bachelors in Computer Science, SNHU
 - 📊 Data Engineer
 - 📫 Email: walker.educs@gmail.com
-- :horse:
+- 
 
 Skills 
 
