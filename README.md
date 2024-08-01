@@ -16,11 +16,7 @@ Skills
 ![Airflow](https://img.shields.io/badge/-Airflow-white?style=flat-square&logo=apache-airflow&logoColor=purple)
 ![AWS](https://img.shields.io/badge/-AWS-purple?style=flat-square&logo=amazon-aws&logoColor=yellow)
 ![Docker](https://img.shields.io/badge/-Docker-yellow?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-white?style=flat-square&logo=kubernetes&logoColor=purple)
 ![Bash](https://img.shields.io/badge/-Bash-purple?style=flat-square&logo=gnu-bash&logoColor=yellow)
-![Zsh](https://img.shields.io/badge/-Zsh-yellow?style=flat-square&logo=zsh&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-white?style=flat-square&logo=node.js&logoColor=purple)
-![Express](https://img.shields.io/badge/-Express-purple?style=flat-square&logo=express&logoColor=yellow)
 ![Tableau](https://img.shields.io/badge/-Tableau-yellow?style=flat-square&logo=tableau&logoColor=white)
 
 
