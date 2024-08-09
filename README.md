@@ -17,11 +17,11 @@ Skills
 ![Docker](https://img.shields.io/badge/-Docker-yellow?style=flat-square&logo=docker&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-purple?style=flat-square&logo=gnu-bash&logoColor=yellow)
 ![Tableau](https://img.shields.io/badge/-Tableau-yellow?style=flat-square&logo=tableau&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-yellow?style=flat-square&logo=sql&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=sqlite&logoColor=white)
 ![Numpy](https://img.shields.io/badge/-Numpy-yellow?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-yellow?style=flat-square&logo=pandas&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-yellow?style=flat-square&logo=git&logoColor=white)s
-![RESTAPI](https://img.shields.io/badge/-RESTAPI-yellow?style=flat-square&logo=RESTAPI&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-yellow?style=flat-square&logo=git&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST%20API-25A162?style=flat-square&logo=api&logoColor=white)
 
 
 
