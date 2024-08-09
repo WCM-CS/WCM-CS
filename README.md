@@ -17,6 +17,14 @@ Skills
 ![Docker](https://img.shields.io/badge/-Docker-yellow?style=flat-square&logo=docker&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-purple?style=flat-square&logo=gnu-bash&logoColor=yellow)
 ![Tableau](https://img.shields.io/badge/-Tableau-yellow?style=flat-square&logo=tableau&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-yellow?style=flat-square&logo=SQL&logoColor=white)
+
+sql 
+numpy
+pandas
+Git
+Rest APi's
+
 
 
 
