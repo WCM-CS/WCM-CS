@@ -19,11 +19,9 @@ Skills
 ![Tableau](https://img.shields.io/badge/-Tableau-yellow?style=flat-square&logo=tableau&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-yellow?style=flat-square&logo=sql&logoColor=white)
 ![Numpy](https://img.shields.io/badge/-Numpy-yellow?style=flat-square&logo=numpy&logoColor=white)
-
-pandas
-Git
-Rest APi's
-
+![Pandas](https://img.shields.io/badge/-Pandas-yellow?style=flat-square&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-yellow?style=flat-square&logo=git&logoColor=white)s
+![RESTAPI](https://img.shields.io/badge/-RESTAPI-yellow?style=flat-square&logo=RESTAPI&logoColor=white)
 
 
 
