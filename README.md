@@ -1,7 +1,14 @@
 ### Hello everybody,
 
-- :book: Bachelors in Computer Science, SNHU
-- 📊 Data Engineer
+Eduction
+- 🎓 Summa Cum Laude; Bachelor of Science in Computer Science @ SNHU
+- 📊 IBM Professional Data Engineering Certificate
+  
+Profession 
+- 🧑‍💻 Cyber Data Scientist
+- 🎮 Mobile Game Developer(Hobby)
+
+Contact Information
 - 📫 Email: walker.educs@gmail.com
 
 Skills 
