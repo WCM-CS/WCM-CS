@@ -1,15 +1,16 @@
 ### Hello everybody,
 
-Eduction
-- 🎓 Summa Cum Laude; Bachelor of Science in Computer Science @ SNHU
-- 📊 IBM Professional Data Engineering Certificate
-  
 Profession 
 - 🧑‍💻 Cyber Data Scientist
-- 🎮 Mobile Game Developer(Hobby)
+- 🎮 Mobile Game Developer (Hobby)
+
+Eduction
+- 🎓 Graduated Summa Cum Laude with a Bachelor of Science in Computer Science from SNHU.
+- 📊 Completed IBM Data Engineer Professional Certificate
 
 Contact Information
 - 📫 Email: walker.educs@gmail.com
+- 🔗 LinkedIn: linkedin.com/in/walkercmartin
 
 Skills 
 
