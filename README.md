@@ -5,7 +5,7 @@ Profession
 - 🎮 Mobile Game Developer (Hobby)
 
 Eduction
-- 🎓 Graduated Summa Cum Laude with a Bachelor of Science in Computer Science from SNHU.
+- 🎓 Graduated Summa Cum Laude with a Bachelor of Science in Computer Science from SNHU
 - 📊 Completed IBM Data Engineer Professional Certificate
 
 Contact Information
