@@ -1,5 +1,19 @@
-Bachelors CS
-Cyber Data Scientist 
+Current Role
+- Data Scientist
+
+Education
+- BSCS, SNHU
+- MSCS, CUB (in progress)
+
+Interests
+- Database management systems
+- Game development & design
+- Data structures
+
+
+
+
+
 
 
 
