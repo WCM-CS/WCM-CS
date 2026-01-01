@@ -3,7 +3,7 @@ Current Role
 
 Education
 - BSCS, SNHU
-- MSCS, CUB (in progress)
+- MSCS, CU (in progress)
 
 Interests
 - Database management systems
