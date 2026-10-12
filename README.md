@@ -1,6 +1,6 @@
 Current Role
 - Computer Engineer @ NASA
-- Pathways Intern, Software for Ground Controls Brach
+- Pathways Intern, R&D Software for Ground Controls Brach
 
 Previous Role
 - Data Scientist @ Centripetal 
