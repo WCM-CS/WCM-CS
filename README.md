@@ -1,14 +1,20 @@
 Current Role
-- Data Scientist
+- Computer Engineer @ NASA
+- Pathways Intern, Software for Ground Controls Brach
+
+Previous Role
+- Data Scientist @ Centripetal 
+- R&D Software Engineer for Network Threat Detection
 
 Education
 - BSCS, SNHU
-- MSCS, CU (in progress)
+- MSCS, CU Boulder (in progress)
 
 Interests
-- Database management systems
-- Game development & design
-- Data structures
+- Database Management Systems
+- Data Structures
+- Infrastructure 
+- Programming Languages 
 
 
 
